@@ -1,6 +1,6 @@
 # Stian Stordal - FrontEnd Developer
 
-Hello There! :wave: 
+### Hello There! :wave: <br>
 My name is Stian, and i am a :computer: FrontEnd Developer with a passion for combining creativity and logic. 
 I am a 🇳🇴 Norwegian 27-year old, and i speak 🇳🇴🇸🇪🇩🇰 scandinavian languages and 🇬🇧 english fluently.
 
