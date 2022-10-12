@@ -1,4 +1,4 @@
-# Stian stordal - FrontEnd Developer
+# Stian Stordal - FrontEnd Developer
 
 Hello There! :wave: 
 My name is Stian, and i am a :computer: FrontEnd Developer with a passion for combining creativity and logic. 
