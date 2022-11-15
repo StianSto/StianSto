@@ -2,7 +2,7 @@
 
 ### Hello There! :wave: <br>
 My name is Stian, and i am a :computer: FrontEnd Developer with a passion for combining creativity and logic. 
-I am a 🇳🇴 Norwegian 27-year old, and i speak 🇳🇴🇸🇪🇩🇰 scandinavian languages and 🇬🇧 english fluently.
+I am a Norwegian 27-year old, and i speak 🇳🇴🇸🇪🇩🇰 scandinavian languages and 🇬🇧 english fluently.
 
 I value teamwork and discipline above all else and I like to work with people who have the same interest in their work as i do, and love what they do as much as i do.
 
