@@ -9,3 +9,7 @@ I value teamwork and discipline above all else and I like to work with people wh
 As a developer i have an unquenchable thirst for knowledge and have a need for continously expanding my knowledge in my field. I like working with CSS and JS an have taken an interest in working with animations, but i also like working with logic "puzzles".
 
 There is also a soft spot in my heart for design, and i try to be up to date with the latest trends when i design my own websites. 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=StianSto&show_icons=true&theme=radical)  
+
