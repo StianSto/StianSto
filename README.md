@@ -10,6 +10,6 @@ As a developer i have an unquenchable thirst for knowledge and have a need for c
 
 There is also a soft spot in my heart for design, and i try to be up to date with the latest trends when i design my own websites. 
 
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StianSto&show_icons=true&theme=radical)  
-
+-->
